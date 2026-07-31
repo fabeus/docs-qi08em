@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-c2hv4d.alexistogel8fcd.sbs/sitemap.xml
